@@ -1,7 +1,15 @@
 {
+  "name": "trails_20230423",
   "title": "Trails through the Veillands",
+  "description": "",
+  "authors": [],
   "url": "https://github.com/Jwendling2150/trails_20230423",
+  "flags": {},
   "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
   "packs": [
     {
       "label": "Veilland Items",
@@ -9,20 +17,19 @@
       "name": "veilland-items",
       "path": "packs/veilland-items.db",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "package": "world",
+      "entity": "Item",
+      "private": false
     }
   ],
   "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
   "download": "https://github.com/Jwendling2150/trails_20230423/archive/refs/heads/main.zip",
+  "protected": false,
   "background": "MistyCity.jpg",
   "coreVersion": "9.269",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3",
-  "id": "trails_20230423",
-  "compatibility": {
-    "verified": "9.269",
-    "minimum": "9"
-  }
+  "systemVersion": "1.6.3"
 }
