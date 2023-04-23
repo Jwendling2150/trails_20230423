@@ -1,6 +1,6 @@
 {
   "title": "Trails through the Veillands",
-  "url": "https://github.com/Jwendling2150/trials",
+  "url": "https://github.com/Jwendling2150/trails_20230423",
   "version": "1.0.0",
   "packs": [
     {
@@ -14,13 +14,13 @@
     }
   ],
   "system": "dnd5e",
-  "download": "https://github.com/Jwendling2150/trials/archive/refs/heads/main.zip",
+  "download": "https://github.com/Jwendling2150/trails_20230423/archive/refs/heads/main.zip",
   "background": "MistyCity.jpg",
   "coreVersion": "10.291",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "2.1.5",
-  "id": "trials",
+  "id": "trails_20230423",
   "compatibility": {
     "verified": "10.291",
     "minimum": "10"
