@@ -1,0 +1,28 @@
+{
+  "title": "Trails through the Veillands",
+  "url": "https://github.com/Jwendling2150/trials",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Veilland Items",
+      "type": "Item",
+      "name": "veilland-items",
+      "path": "packs/veilland-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "download": "https://github.com/Jwendling2150/trials/archive/refs/heads/main.zip",
+  "background": "MistyCity.jpg",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.1.5",
+  "id": "trials",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  }
+}
